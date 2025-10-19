@@ -41,7 +41,7 @@ Soy un desarrollador apasionado, siempre buscando aprender y aplicar nuevas tecn
 
 | Plataforma | Contacto |
 | :--- | :--- |
-| 📧 **Correo:** | [ccus.richard.rodriguez@example.com](mailto:ccus.richard.rodriguez@example.com) |
+| 📧 **Correo:** | [ccus.richard.rodriguez@gmail.com](mailto:ccus.richard.rodriguez@gmail.com) |
 | 🔗 **LinkedIn:** | [linkedin.com/in/RichardRodriguezSystems](linkedin.com/in/RichardRodriguezSystems) |
 
 <br>

@@ -39,6 +39,4 @@ Soy un desarrollador apasionado, siempre buscando aprender y aplicar nuevas tecn
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richardby2005&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
+

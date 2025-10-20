@@ -1,19 +1,19 @@
 ## Hola, soy Richard 👋
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy un desarrollador apasionado, siempre buscando aprender y aplicar nuevas tecnologías en proyectos interesantes. Actualmente, me centro en la integración de sistemas y el desarrollo de aplicaciones robustas.
 
-| Ícono | Área | Estado Actual |
-| :---: | :--- | :--- |
-| 🌱 | **Aprendizaje:** | Profundizando en **Python** para análisis de datos y **Docker** para despliegue de aplicaciones. |
-| 💼 | **Trabajo:** | Desarrollando soluciones con enfoque en la **eficiencia y la escalabilidad**. |
-| 🤝 | **Colaboración:** | Abierto a colaborar en proyectos de **código abierto (Open Source)**, especialmente en temas de **automatización**. |
-| 😄 | **Dato Curioso:** | Me encanta resolver problemas complejos, ¡es mi pasatiempo favorito! |
+| Área | Estado Actual |
+| :--- | :--- |
+| **Aprendizaje:** | Profundizando en **Python** para análisis de datos y **Docker** para despliegue de aplicaciones. |
+| **Trabajo:** | Desarrollando soluciones con enfoque en la **eficiencia y la escalabilidad**. |
+| **Colaboración:** | Abierto a colaborar en proyectos de **código abierto (Open Source)**, especialmente en temas de **automatización**. |
+| **Dato Curioso:** | Me encanta resolver problemas complejos, ¡es mi pasatiempo favorito! |
 
 ---
 
-### ⚙️ Tecnologías que Uso y Exploro
+### Tecnologías que Uso y Exploro
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -37,7 +37,7 @@ Soy un desarrollador apasionado, siempre buscando aprender y aplicar nuevas tecn
 
 ---
 
-### 📫 Contacto y Redes
+### Contacto y Redes
 
 | Plataforma | Contacto |
 | :--- | :--- |
